@@ -16,7 +16,7 @@ public class ConnectionDB {
     private final String DATABASE = "testedb";
     public final String SQL_URI = SCHEMA + HOST + "/" + DATABASE;
     private String usuario = "root";
-    private String senha = "megusta3815";
+    private String senha = "";
     private boolean sucess = false;
 
     public Connection getConnection() {

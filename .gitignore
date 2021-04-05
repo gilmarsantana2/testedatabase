@@ -1,0 +1,8 @@
+/lib/mariadb-java-client-2.6.2.jar
+/lib/sqlite-jdbc-3.34.0.jar
+/out/artifacts/testedb/db/testedb.db
+/out/artifacts/testedb/lib/hsqldb.jar
+/out/artifacts/testedb/
+/out/
+/properties/
+/.idea/
